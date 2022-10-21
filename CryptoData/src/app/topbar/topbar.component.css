@@ -1,0 +1,32 @@
+.buttonTab{
+    font-size: 1.25rem;
+    color: gold;
+    background-color: black;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+.buttonTab:hover{
+    background-color: white;
+    color: black;
+}
+#homeButton{
+    font-size: 3rem;
+    margin: 15px;
+    text-shadow: 1px 1px 1px gold;
+    font-style: oblique;
+    font-weight: bolder;
+    text-decoration: overline underline;
+    cursor: pointer;
+    justify-content: left;
+}
+.infoTabs{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+.topbar{
+    display: flex;
+    align-items: center;
+}
